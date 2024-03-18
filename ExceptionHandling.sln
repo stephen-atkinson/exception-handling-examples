@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling.MvcFilters", "ExceptionHandling.MvcFilters\ExceptionHandling.MvcFilters.csproj", "{C0B8EBB1-830B-4DBD-9DD9-D60F9E784CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling.CustomMiddleware", "ExceptionHandling.CustomMiddleware\ExceptionHandling.CustomMiddleware.csproj", "{75FAA298-6F6F-4017-BACE-B4882D79B6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling.MiddlewareDelegate", "ExceptionHandling.MiddlewareDelegate\ExceptionHandling.MiddlewareDelegate.csproj", "{4B3DC8BA-C3CF-4CB0-BE0C-62EECC5F0052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling.ProblemDetailsMiddleware", "ExceptionHandling.ProblemDetailsMiddleware\ExceptionHandling.ProblemDetailsMiddleware.csproj", "{E4F0B691-9098-45F8-81B7-C99E5CB7269C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling.MiddlewareExceptionHandler", "ExceptionHandling.MiddlewareExceptionHandler\ExceptionHandling.MiddlewareExceptionHandler.csproj", "{D6E6C79A-D8F6-41B6-8B5E-0AF89B9A6269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B8EBB1-830B-4DBD-9DD9-D60F9E784CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B8EBB1-830B-4DBD-9DD9-D60F9E784CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B8EBB1-830B-4DBD-9DD9-D60F9E784CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B8EBB1-830B-4DBD-9DD9-D60F9E784CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FAA298-6F6F-4017-BACE-B4882D79B6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FAA298-6F6F-4017-BACE-B4882D79B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FAA298-6F6F-4017-BACE-B4882D79B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FAA298-6F6F-4017-BACE-B4882D79B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3DC8BA-C3CF-4CB0-BE0C-62EECC5F0052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3DC8BA-C3CF-4CB0-BE0C-62EECC5F0052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3DC8BA-C3CF-4CB0-BE0C-62EECC5F0052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3DC8BA-C3CF-4CB0-BE0C-62EECC5F0052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F0B691-9098-45F8-81B7-C99E5CB7269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F0B691-9098-45F8-81B7-C99E5CB7269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F0B691-9098-45F8-81B7-C99E5CB7269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F0B691-9098-45F8-81B7-C99E5CB7269C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E6C79A-D8F6-41B6-8B5E-0AF89B9A6269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E6C79A-D8F6-41B6-8B5E-0AF89B9A6269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E6C79A-D8F6-41B6-8B5E-0AF89B9A6269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E6C79A-D8F6-41B6-8B5E-0AF89B9A6269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
